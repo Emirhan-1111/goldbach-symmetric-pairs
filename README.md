@@ -18,6 +18,8 @@ Symmetric prime pair found: L = 11, R = 17 (d = 3)
 Verification: L + R = 28 = 2 * 14
 ```
 
+📄 **Paper:** [Symmetric Prime Pairs and the Expression of Even Numbers (PDF)](paper/symmetric_prime_pairs.pdf) — method, results for every even number up to 100 000, discussion. Rebuilt with `python paper/make_paper.py`.
+
 ## Background
 
 [Goldbach's conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture) (1742) states
